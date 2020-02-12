@@ -1,0 +1,22 @@
+body{
+    background:url(image/fon.jpg);
+    font-family:Arial, sans-serif;
+}
+
+li{
+font-size: 20px;
+}
+h1 {
+   font-size: 25px;
+   text-align: center;
+}
+.first{
+    font-size: 20px;
+}
+.photo{
+    font-size: 20px;
+}
+.kotic{
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
